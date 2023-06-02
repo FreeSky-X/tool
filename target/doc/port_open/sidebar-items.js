@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["get_port_isopen"],"struct":["PortOpen"]};
